@@ -1,0 +1,6 @@
+C:\programas\CRUD_POO-main\obj\Debug\CRUD_Restaurante.csprojAssemblyReference.cache
+C:\programas\CRUD_POO-main\obj\Debug\CRUD_PLayer.FormPrincipal.resources
+C:\programas\CRUD_POO-main\obj\Debug\CRUD_PLayer.Properties.Resources.resources
+C:\programas\CRUD_POO-main\obj\Debug\CRUD_Restaurante.csproj.GenerateResource.cache
+C:\programas\CRUD_POO-main\obj\Debug\CRUD_PLayer.exe
+C:\programas\CRUD_POO-main\obj\Debug\CRUD_PLayer.pdb
